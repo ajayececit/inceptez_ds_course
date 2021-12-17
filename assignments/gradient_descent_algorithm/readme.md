@@ -13,5 +13,5 @@ An algorithm for finding local minimum of differentiable function
 * Step 5: Plot Graphs (plot_gradient_descent)
 
 ## Result
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![picture alt](https://github.com/ajayececit/inceptez_ds_course/blob/main/assignments/gradient_descent_algorithm/result/result.jpg "Title is optional")
  
